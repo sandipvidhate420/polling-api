@@ -1,7 +1,7 @@
 const Questions = require("../models/question");
 const Options = require("../models/option");
 
-module.exports.front = async function (req, res) {
+module.exports.home = async function (req, res) {
   try {
     // finding all the questions and returning
     let question = await Questions.find({}).populate({
