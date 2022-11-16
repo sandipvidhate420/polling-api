@@ -10,15 +10,15 @@ This is a backend project intended to used at platforms where polling/voting typ
 
 # Important Link:
 
-- Hosting Link: 
+- Hosting Link:  https://polling-api.onrender.com/
 
 # Important endpoints of the API
-- Create your own questions: .com/question/create
-- Delete the questions: .com/question/:id/delete
-- Add Options to the questions: .com/question/:id/options/create
-- View questions along with its options: .com/question/:id
-- Add Votes to the options: .com/option/:id/delete
-- Delete Options: .com/option/:id/add_vote
+- Create your own questions: https://polling-api.onrender.com/question/create
+- Delete the questions: https://polling-api.onrender.com/question/:id/delete
+- Add Options to the questions: https://polling-api.onrender.com/question/:id/options/create
+- View questions along with its options: https://polling-api.onrender.com/question/:id
+- Add Votes to the options: https://polling-api.onrender.com/option/:id/delete
+- Delete Options: https://polling-api.onrender.com/option/:id/add_vote
 
 
 
