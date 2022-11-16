@@ -1,0 +1,23 @@
+{
+  "name": "polling-api",
+  "version": "1.0.0",
+  "description": "polling api",
+  "main": "index.js",
+  "engine": {
+    "node": "16.x",
+    "npm": "8.x"
+  },
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sanskar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-ejs-layouts": "^2.5.1",
+    "mongoose": "^6.1.7",
+    "nodemon": "^2.0.20",
+    "path": "^0.12.7"
+  }
+}
